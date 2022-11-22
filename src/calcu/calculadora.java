@@ -21,7 +21,7 @@ public class calculadora {
 		if(eleccion==1) {
 			//diego
 		}else if(eleccion==2) {
-			//diego
+			//diego y juan
 		}else if(eleccion==3) {
 			
 		}else if(eleccion==4) {
